@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+header {
+    background-color: #000000;
+    color: white;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center; 
+    flex-wrap: wrap;
+    gap: 20px; 
+}
+
+ul li {
+    display: inline-block;
+}
+
+img {
+    width: 200px;
+    height: 700px; 
+    object-fit: cover;
+    border-radius: 10px;
+    transition: transform 0.3s, border-color 0.3s; 
+}
+
+img:hover {
+    transform: scale(1.1);
+}

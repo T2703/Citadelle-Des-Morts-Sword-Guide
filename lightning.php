@@ -32,7 +32,7 @@
                         <img src="images/lightningrod1.png" alt="lightningrod1">
                     </div>
                     <div>
-                        <strong>Location: Shoot this electric box with your Dead Wire gun, it's near Speed Cola and the light sword door. After shooting it, the rod should drop.</strong><br>
+                        <strong>Location: Near the light sword door, shoot this electric box with your Dead Wire gun.</strong><br>
                         <img src="images/lightningrod2.png" alt="lightningrod2">
                     </div>
                     <div>
